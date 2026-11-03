@@ -364,3 +364,18 @@ ehthumbs.db
 **Eliad Shahar** – Open source automation enthusiast.
 
 **lharries Credit**: [lharries Whatsapp mcp](https://github.com/lharries/whatsapp-mcp) 
+## Portfolio brief
+
+An MCP-oriented automation service exploring structured interaction with WhatsApp workflows and external tools.
+
+### Visual system
+
+Utility-first operations UI: dark neutral base, precise monospace diagnostics, one green delivery signal, and clear consent boundaries.
+
+### Architecture
+
+The service separates tool registration, message/workflow handling, transport, and local configuration. Credentials and `.env` files remain outside version control.
+
+### Run and output
+
+Use the repository's local setup instructions with test accounts or mocks. Validate outbound actions before enabling any real messaging integration.
