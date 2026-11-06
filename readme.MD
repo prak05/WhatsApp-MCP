@@ -123,3 +123,5 @@ EOF
 <sub>Architected with extreme precision by <b>Prakhar Sharma</b> • Supported by <b>Google DeepMind Antigravity</b> • Dual-Branch Mesh (Ex / main)</sub>
 
 </div>
+
+<!-- touch -->
