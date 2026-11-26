@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 Active Node HUD & System Specification
+### Active Node HUD & System Specification
 
 ```yaml
 System Node    : WhatsApp-MCP Gateway
@@ -45,7 +45,7 @@ Lead Architect : Prakhar Sharma (RIET CSE '27 • Kerala, India)
 
 ---
 
-## 🏛️ System Architecture Topology
+## System Architecture Topology
 
 ```mermaid
 flowchart LR
@@ -66,7 +66,7 @@ flowchart LR
 
 ---
 
-## ⚡ Core Capabilities & Bento Matrix
+## Core Capabilities & Bento Matrix
 
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr bgcolor="#252323">
@@ -93,7 +93,7 @@ flowchart LR
 
 ---
 
-## 🚀 Quickstart & Daemon Execution
+## Quickstart & Daemon Execution
 
 ```bash
 # Clone the repository
